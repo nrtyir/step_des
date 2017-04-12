@@ -18,3 +18,14 @@ If your current branch is master, you should choose to create a new branch for y
 (first time create master branch.)
 
 Click Propose file change. (on the button only exist when choose to create a new branch.)
+
+Open a pull request.
+
+The change you just made was written to a new branch named nrtyir-patch-1. Create a pull request below to propose these changes.
+
+Creating a pull request
+
+Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the master branch only contains finished and approved work.
+
+Pull requests can only be opened if there are differences between your branch and the upstream branch. You can specify which branch you'd like to merge your changes into when you create your pull request.
+
