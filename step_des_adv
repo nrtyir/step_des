@@ -1,0 +1,14 @@
+forks:
+
+A fork is a copy of a repository that you manage. Forks let you make changes to a project without
+affecting the original repository. You can fetch updates from or submit changes to 
+the original repository with pull requests.
+
+Sync a fork of a repository to keep it up-to-date with the upstream repository.
+
+If you don't have push (write) access to an upstream repository, then you can pull
+commits from that repository into your own fork.
+
+For greater collaboration, you can allow commits on branches you've created from forks.
+Permission to commit to your forked branches is limited to those with push access to the 
+upstream repository of the fork.
