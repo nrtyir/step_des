@@ -31,4 +31,9 @@ Pull requests can only be opened if there are differences between your branch an
 
 Conversation about the changes. more Conversation about the changes.
 
+you can close the pull request without merging.
+
+Merging a pull request:
 if Commit changes to a new branch via patche than  click "marge pull request".
+
+Optionally, delete the branch. This keeps the list of branches in your repository tidy.
